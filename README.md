@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align = "center">
+<!-- <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mbmackenzie&show_icons=true&" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=mbmackenzie&hide_border=true" width = 400>
-</p>
+</p> -->
